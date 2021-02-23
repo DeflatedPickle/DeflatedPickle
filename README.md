@@ -7,6 +7,19 @@
   <img src="https://count.getloli.com/get/@DeflatedPickle?theme=gelbooru"/>
 </p>
 
+***
+
+<p align="center">
+  <i>
+    "hype [...], it will always be beaten down by the next failure
+     <br>
+     and that is the rollercoaster that is [...]"
+  </i>
+  - Martin (Wintergatan), 2021
+</p>
+
+***
+
 Edit: thanks for the gold, kind stranger
 
 Edit 2: oh wow! silver!? Thats insane!! I cant believe it, im famous! R.I.P my inbox LOL! Thanks so much to the *kind* stranger that took their time and money (silver costs money) to give this stupid repo silver that took me 4 seconds to commit
