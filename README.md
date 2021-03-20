@@ -26,6 +26,9 @@
   <a href="https://www.youtube.com/channel/UCl_dlV_7ofr4qeP1drJQ-qg">Tantacrul</a>
   <i>- thought pieces about music and tropes in music</i>
   <br>
+  <a href="https://www.youtube.com/channel/UC3JMzLbq7fgFLampM2dNLMA">Nill</a>
+  <i>- cat explains tech junk</i>
+  <br>
 </p>
 
 ***
