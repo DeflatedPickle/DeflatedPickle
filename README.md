@@ -20,6 +20,16 @@
 
 ***
 
+<p align="center">
+  <b>Content Recommendations</b>
+  <br>
+  <a href="https://www.youtube.com/channel/UCl_dlV_7ofr4qeP1drJQ-qg">Tantacrul</a>
+  <i>- thought pieces about music and tropes in music</i>
+  <br>
+</p>
+
+***
+
 Edit: thanks for the gold, kind stranger
 
 Edit 2: oh wow! silver!? Thats insane!! I cant believe it, im famous! R.I.P my inbox LOL! Thanks so much to the *kind* stranger that took their time and money (silver costs money) to give this stupid repo silver that took me 4 seconds to commit
