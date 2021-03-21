@@ -29,6 +29,9 @@
   <a href="https://www.youtube.com/channel/UC3JMzLbq7fgFLampM2dNLMA">Nill</a>
   <i>- cat explains tech junk</i>
   <br>
+  <a href="https://www.youtube.com/channel/UCNTqu16j3F6RbtHZI-3untg">Glink</a>
+  <i>- longish video essays</i>
+  <br>
 </p>
 
 ***
