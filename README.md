@@ -35,6 +35,12 @@
   <a href="https://www.youtube.com/channel/UCZn_h4YsrFy1ZjHGK7Z5NKw">Uniquenameosaurus</a>
   <i>- a pirate or something</i>
   <br>
+  <a href="https://www.youtube.com/channel/UC7-E5xhZBZdW-8d7V80mzfg">Jenny Nicholson</a>
+  <i>- movie rants</i>
+  <br>
+  <a href="https://www.youtube.com/channel/UCK-GxvzttTnNhq3JPYpXhqg">Sarah Z</a>
+  <i>- oh no my nostalia</i>
+  <br>
 </p>
 
 ***
