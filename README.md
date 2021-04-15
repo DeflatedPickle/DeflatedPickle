@@ -13,7 +13,7 @@
   <i>
     "hype [...], it will always be beaten down by the next failure
      <br>
-     and that is the rollercoaster that is [...]"
+     and that is the rollercoaster that is [his main project]"
   </i>
   - Martin (Wintergatan), 2021
 </p>
@@ -39,7 +39,10 @@
   <i>- movie rants</i>
   <br>
   <a href="https://www.youtube.com/channel/UCK-GxvzttTnNhq3JPYpXhqg">Sarah Z</a>
-  <i>- oh no my nostalia</i>
+  <i>- oh no my nostalgia</i>
+  <br>
+  <a href="https://www.youtube.com/channel/UCyEKvaxi8mt9FMc62MHcliw">Wrath of Math</a>
+  <i>- explanations and raps of math i don't understand</i>
   <br>
 </p>
 
