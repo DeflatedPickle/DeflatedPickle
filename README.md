@@ -32,6 +32,9 @@
   <a href="https://www.youtube.com/channel/UCNTqu16j3F6RbtHZI-3untg">Glink</a>
   <i>- longish video essays</i>
   <br>
+  <a href="https://www.youtube.com/channel/UCZn_h4YsrFy1ZjHGK7Z5NKw">Uniquenameosaurus</a>
+  <i>- a pirate or something</i>
+  <br>
 </p>
 
 ***
