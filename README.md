@@ -21,6 +21,31 @@
 ***
 
 <p align="center">
+  <b>Profiles</b>
+  <br>
+  <a href="https://www.planetminecraft.com/member/deflatedpickle/">Planet Minecraft</a>
+  <br>
+  <a href="https://www.curseforge.com/members/deflatedpickle/">CurseForge</a>
+  <br>
+  <a href="https://anilist.co/user/DeflatedPickle/">AniList</a>
+  <br>
+  <a href="https://deckstats.net/decks/113605/">DeckStats</a>
+  <br>
+  <a href="https://myfigurecollection.net/profile/DeflatedPickle">MyFigureCollection</a>
+  <br>
+  <a href="https://www.reddit.com/user/DeflatedPickle">Reddit</a>
+  <br>
+  <a href="https://www.deviantart.com/deflatedpickle">DeviantArt</a>
+  <br>
+  <a href="https://sketchfab.com/deflatedpickle">Sketchfab</a>
+  <br>
+  <a href="https://www.artstation.com/deflatedpickle">ArtStation</a>
+  <br>
+</p>
+
+***
+
+<p align="center">
   <b>Content Recommendations</b>
   <br>
   <a href="https://www.youtube.com/channel/UCl_dlV_7ofr4qeP1drJQ-qg">Tantacrul</a>
