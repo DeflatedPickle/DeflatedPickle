@@ -69,6 +69,9 @@
   <a href="https://www.youtube.com/channel/UCyEKvaxi8mt9FMc62MHcliw">Wrath of Math</a>
   <i>- explanations and raps of math i don't understand</i>
   <br>
+  <a href="https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w">TheCrafsMan</a>
+  <i>- the craaaaaaaaaaaaaafts man<i>
+  <br>
 </p>
 
 ***
