@@ -1,8 +1,9 @@
-<img src="https://raw.githubusercontent.com/DeflatedPickle/DeflatedPickle/master/gold-award.png" alt="gold"/><sub>2</sub><img src="https://raw.githubusercontent.com/DeflatedPickle/DeflatedPickle/master/silver-award.png" alt="silver"/><sub>1</sub>
+<img src="gold-award.png" alt="gold"/><sub>2</sub><img src="silver-award.png" alt="silver"/><sub>1</sub><img src="wholesome-award.png" alt="wholesome"/><sub>237</sub>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeflatedPickle/DeflatedPickle/master/bruh.jpg"/>
-  <img src="https://raw.githubusercontent.com/DeflatedPickle/DeflatedPickle/master/ohihatethis.jpg"/>
+  <img src="bruh.jpg"/>
+  <img src="ohihatethis.jpg"/>
   <br>
   <img src="https://count.getloli.com/get/@DeflatedPickle?theme=gelbooru"/>
 </p>
