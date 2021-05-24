@@ -72,6 +72,18 @@
   <a href="https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w">TheCrafsMan</a>
   <i>- the craaaaaaaaaaaaaafts man<i>
   <br>
+  <a href="https://www.youtube.com/channel/UC4rqhyiTs7XyuODcECvuiiQ">Scott The Woz</a>
+  <i>- hey y'all, scott here</i>
+  <br>
+  <a href="https://www.youtube.com/channel/UCEEQzq-81-YlCTErcCU5iYw">Dr. NEMO</a>
+  <i>- art, animation and science</i>
+  <br>
+  <a href="https://www.youtube.com/channel/UCFLwN7vRu8M057qJF8TsBaA">UpIsNotJump</a>
+  <i>- this game is an absolute nightmare</i>
+  <br>
+    <a href="https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA">Sam O'Nella Academy</a>
+    <i>- free education</i>
+    <br>
 </p>
 
 ***
