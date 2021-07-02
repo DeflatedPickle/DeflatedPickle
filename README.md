@@ -48,6 +48,8 @@
 <p align="center">
   <b>Content Recommendations</b>
   <br>
+  <code>By no means are any of these mentions an endorsement of the people behind their works and anything else they should do</code>
+  <br>
   <a href="https://www.youtube.com/channel/UCl_dlV_7ofr4qeP1drJQ-qg">Tantacrul</a>
   <i>- thought pieces about music and tropes in music</i>
   <br>
@@ -83,6 +85,12 @@
   <br>
     <a href="https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA">Sam O'Nella Academy</a>
     <i>- free education</i>
+    <br>
+    <a href="https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg">Fred Overflow</a>
+    <i>- exploration of specific code bits</i>
+    <br>
+    <a href="https://www.youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw">Octavius King</a>
+    <i>- reviews for old games i've never heard of</i>
     <br>
 </p>
 
