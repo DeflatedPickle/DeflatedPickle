@@ -92,6 +92,9 @@
     <a href="https://www.youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw">Octavius King</a>
     <i>- reviews for old games i've never heard of</i>
     <br>
+    <a href="https://www.youtube.com/channel/UCiwFcYaaqDSkzaA0CipV2BA">nerdSlayer Studios</a>
+    <i>- how did this game die? was it... capitalism?</i>
+    <br>
     <b>Music</b>
     <br>
     <a href="https://www.youtube.com/channel/UCji2l5wcs6GoYJY1GgG_slQ">Ska Tune Network</a>
