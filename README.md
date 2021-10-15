@@ -95,6 +95,9 @@
     <a href="https://www.youtube.com/channel/UCiwFcYaaqDSkzaA0CipV2BA">nerdSlayer Studios</a>
     <i>- how did this game die? was it... capitalism?</i>
     <br>
+    <a href="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w">CGP Grey</a>
+    <i>- something about hexagons and sharks</i>
+    <br>
     <b>Music</b>
     <br>
     <a href="https://www.youtube.com/channel/UCji2l5wcs6GoYJY1GgG_slQ">Ska Tune Network</a>
