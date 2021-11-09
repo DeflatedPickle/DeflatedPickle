@@ -110,6 +110,8 @@
     <br>
     <a href="https://www.youtube.com/c/TORAV4X">TORA_V4</a>
     <br>
+    <a href="https://www.youtube.com/c/Tanjirotaidana">Tanjiro Taidana</a>
+    <br>
 </p>
 
 ***
