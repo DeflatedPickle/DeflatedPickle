@@ -81,7 +81,7 @@
   <i>- art, animation and science</i>
   <br>
   <a href="https://www.youtube.com/channel/UCFLwN7vRu8M057qJF8TsBaA">UpIsNotJump</a>
-  <i>- this game is an absolute nightmare</i>
+  <i>- this readme is an absolute nightmare</i>
   <br>
     <a href="https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA">Sam O'Nella Academy</a>
     <i>- free education</i>
@@ -111,6 +111,8 @@
     <a href="https://www.youtube.com/c/TORAV4X">TORA_V4</a>
     <br>
     <a href="https://www.youtube.com/c/Tanjirotaidana">Tanjiro Taidana</a>
+    <br>
+    <a href="https://www.youtube.com/channel/UCF080GGiPwEoZBVSvXDMg5A">pluffaduff</a>
     <br>
 </p>
 
