@@ -104,6 +104,9 @@
     <a href="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w">CGP Grey</a>
     <i>- something about hexagons and sharks</i>
     <br>
+    <a href="https://www.youtube.com/channel/UCbxQcz9k0NRRuy0ukgQTDQQ">AustinMcConnell</a>
+    <i>- here's a problem with a thing</i>
+    <br>
     <b>Music</b>
     <br>
     <a href="https://www.youtube.com/channel/UCji2l5wcs6GoYJY1GgG_slQ">Ska Tune Network</a>
