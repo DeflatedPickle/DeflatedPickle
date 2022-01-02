@@ -27,11 +27,13 @@
   <br>
   <a href="https://www.curseforge.com/members/deflatedpickle/">CurseForge</a>
   <br>
+  <a href="https://modrinth.com/user/xgtIFLbS">Modrinth</a>
+  <br>
   <a href="https://anilist.co/user/DeflatedPickle/">AniList</a>
   <br>
   <a href="https://deckstats.net/decks/113605/">DeckStats</a>
   <br>
-  <a href="https://myfigurecollection.net/profile/DeflatedPickle">MyFigureCollection</a>
+  <a href="https://myfigurecollection.net/profile/DeflatedPickle">MFC</a>
   <br>
   <a href="https://www.reddit.com/user/DeflatedPickle">Reddit</a>
   <br>
@@ -40,6 +42,10 @@
   <a href="https://sketchfab.com/deflatedpickle">Sketchfab</a>
   <br>
   <a href="https://www.artstation.com/deflatedpickle">ArtStation</a>
+  <br>
+  <a href="https://boardgamegeek.com/user/DeflatedPickle">BGG</a>
+  <br>
+  <a href="https://www.imdb.com/user/ur129962108">IMDB</a>
   <br>
 </p>
 
